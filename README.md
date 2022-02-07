@@ -1,7 +1,6 @@
 # hola-mundo
-## Tarea 3 de Entornos de desarrollo
+## Tarea 3 de Entornos de desarrollo- Santiago Guillén
 
-# Santiago Guillén
 
 # Pasos a seguir
 - Dentro de Github hemos de presionar en `New` para crear un nuevo repositorio.
