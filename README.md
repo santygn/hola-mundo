@@ -8,4 +8,12 @@
 
 ![nuevo repositorio](new_repository.png) 
 
+- Accederemos a *Create new repository* donde hemos de añadir como título **hola-mundo** y una pequeña descripción del proyecto.
+- Presionamos la opción de *Add a README file*
+- Seguidamente damos click en *create repository* y el repositorio quedará creado.
+
+![crear repositorio](create_repository.png)
+
+
+
 
