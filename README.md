@@ -13,6 +13,9 @@
 
 ![crear repositorio](create_repository.png)
 
+- Una vez creado el repositorio hemos de crear una nueva rama a partir de la rama main.
+- Para crear una rama tenemos que hacer click en main y ponerle un nombre a la nueva rama.
+
 
 
 
