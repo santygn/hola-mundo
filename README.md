@@ -5,7 +5,7 @@
 
 # Pasos a seguir
 - Dentro de Github hemos de presionar en `New` para crear un nuevo repositorio.
-- 
+
 ![nuevo repositorio](new_repository.png) 
 
 
