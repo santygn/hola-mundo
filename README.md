@@ -5,6 +5,6 @@
 
 # Pasos a seguir
 - Dentro de Github hemos de presionar en `New` para crear un nuevo repositorio.
-![nuevo repositorio](new_repository.png) 
+![nuevo repositorio]("C:\Users\alumno\Downloads\new_repository.png") 
 
 
