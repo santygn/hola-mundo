@@ -37,7 +37,7 @@
 
 ![merge request](https://github.com/santygn/hola-mundo/blob/e60568eeac682137362d98920b87d309b428760b/capturas_de_pantalla/merge_pull_request.png)
 
-- Ahora, si lo deseamos, podemos añadir algún archivo a nuestro repositorio
+- Finalmente, si lo deseamos, podemos añadir algún archivo a nuestro repositorio
 
 
 
