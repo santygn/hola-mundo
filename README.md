@@ -3,7 +3,8 @@
 
 # Santiago Guillén
 
-## Cambios 
-### realizados
-#### en la rama
-##### readme.md
+# Pasos a seguir
+- Dentro de Github hemos de presionar en `New` para crear un nuevo repositorio.
+![alt text](new_repository.png "Nuevo Repositorio") 
+
+
